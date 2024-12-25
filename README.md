@@ -5,6 +5,11 @@
 Este é um **scanner de portas simples** desenvolvido em Python. 
 Ele permite que você realize uma varredura em um intervalo de portas em um endereço IP especificado, e exibe quais portas estão abertas.
 
+![Tela](https://github.com/user-attachments/assets/35770362-84ce-47e5-a340-f4afebca1ecf)
+
+
+https://github.com/user-attachments/assets/cfe46c21-205a-4c43-a8e9-02c6613f1b68
+
 ## Requisitos
 
 Antes de rodar a aplicação, certifique-se de que os seguintes requisitos estejam atendidos:
